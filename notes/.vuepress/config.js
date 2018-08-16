@@ -1,7 +1,11 @@
 module.exports = {
-  title: 'Veterinary Ophthalmology Notes',
+  title: 'Vet Ophtho',
   description: 'Learn (or lookup) everything you need to know about animal eyeballs.', 
   themeConfig: { 
+    algolia: {
+      apiKey: '348f3dcf64dcfe5736146da0ccae2a54',
+      indexName: 'vetophtho'
+    },
     nav: [ 
       { text: 'Home', link: '/' }, 
       { text: 'Clinics', items: [
@@ -23,13 +27,14 @@ module.exports = {
       },
       {
         title: 'UT Ophtho Course Notes',
-        collapsable: true,
+        collapsable: false,
         children: [ 
           ['./cornea/cornea', 'Cornea'],
           ['./kcs/kcs', 'KCS/Dry Eye'],
           ['/glaucoma/glaucoma', 'Glaucoma'],
           ['./conjunctiva/conjunctiva', 'Conjunctiva'],
-          ['./eyelids/eyelids', 'Eyelids']
+          ['./eyelids/eyelids', 'Eyelids'],
+          ['./anterioruvea/anterioruvea', 'Anterior Uvea']
         ]
       }
     ]
