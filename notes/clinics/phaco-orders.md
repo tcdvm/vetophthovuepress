@@ -1,5 +1,8 @@
 # Phaco Orders 
 
+## Surgery Checklist
+- [Click here](https://www.dropbox.com/s/x3njoccz54dp8ia/Surgical%20Checklist%202018.docx?dl=0)
+
 ## Pre-op (for the Wards) 
 - [Click here for Pre-op orders - NON-DIABETIC](https://www.dropbox.com/s/i82wwf7sg9nkl6x/Wards-Orders-non-diabetic.xlsx?dl=0)
 - [Click here for Pre-op orders - DIABETIC](https://www.dropbox.com/s/plmzmvqkze6elfq/Wards-Orders-diabetic.xlsx?dl=0)
