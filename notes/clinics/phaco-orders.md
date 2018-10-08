@@ -3,11 +3,11 @@
 ## Surgery Checklist
 - [Click here](https://www.dropbox.com/s/x3njoccz54dp8ia/Surgical%20Checklist%202018.docx?dl=0)
 
-## Pre-op (for the Wards) 
+## Pre-op Wards Orders
 - [Click here for Pre-op orders - NON-DIABETIC](https://www.dropbox.com/s/i82wwf7sg9nkl6x/Wards-Orders-non-diabetic.xlsx?dl=0)
 - [Click here for Pre-op orders - DIABETIC](https://www.dropbox.com/s/plmzmvqkze6elfq/Wards-Orders-diabetic.xlsx?dl=0)
 
-## Post-op (for ICU)
+## Post-op ICU Orders
 -   [Click here for
     the NON-DIABETIC orders](https://www.dropbox.com/s/w27azh4jroc1xl3/ICU-orders-for-postop-cataract-sx-non-diabetic.xlsx?dl=0)
 -   [Click here for
