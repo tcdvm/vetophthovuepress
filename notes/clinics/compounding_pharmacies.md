@@ -10,6 +10,8 @@ Below are some of the compounding pharamcies available that deliver nationally.
 
 | Name       | Phone Number   | Website                            |
 |------------|----------------|------------------------------------|
-| Wedgewood  | (877) 357-6613 | [https://www.wedgewoodpetrx.com/](https://www.wedgewoodpetrx.com)   |
 | Stokes     | (800) 754-5222 | [https://www.stokespharmacy.com/](https://www.stokespharmacy.com)   |
+| Wedgewood  | (877) 357-6613 | [https://www.wedgewoodpetrx.com/](https://www.wedgewoodpetrx.com)   |
 | Roadrunner | (877) 518-4589 | [http://www.roadrunnerpharmacy.com/](https://www.roadrunnerpharmacy.com) |
+| Diamondback | (866) 578-4420 | [https://www.diamondbackdrugs.com/](https://www.diamondbackdrugs.com/) |
+| MedsforVets | (833) 633-4838 | [https://www.medsforvets.com/](https://www.medsforvets.com/) |
