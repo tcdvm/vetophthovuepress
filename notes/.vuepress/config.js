@@ -26,6 +26,7 @@ module.exports = {
         children: [
           ['./clinics/phaco-orders', 'Phaco Orders'],
           ['./clinics/client_handouts', 'Client Handouts'],
+          ['./clinics/compounding_pharmacies', 'Compounding Pharmacies'],
         ]
       },
       {
