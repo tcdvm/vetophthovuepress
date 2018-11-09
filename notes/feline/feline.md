@@ -145,30 +145,25 @@ Feline corneal sequestrum (nigrum)
     -   Conservative - Most sequestra will slough spontaneously given
         enough time (months).
 
--   Eosinophilic Keratitis
+Eosinophilic Keratitis
+----------------------------------
 
-    -   Keratitis syndrome of pinkish fleshy proliferation at limbus,
-        unkown etiology, diagnose by cytology, resonds to steroids.
+-   Keratitis syndrome of pinkish fleshy proliferation at limbus, unkown etiology, diagnose by cytology, resonds to steroids.
 
--   Exposure Keratitis due to Eyelid Agenesis (also called Eyelid
-    Coloboma)
+Exposure Keratitis due to Eyelid Agenesis (also called Eyelid Coloboma)
+----------------------------------
 
-    -   Definition: Congential absence of portion of lid, usually
-        superotemporal.
+-   Definition: Congential absence of portion of lid, usually superotemporal.
 
-    -   Clinical signs / history:
+-   Clinical signs / history:
 
-        -   Keratitis changes
+    -   Keratitis changes
+    -   Blepharospasm
+    -   Portion of lid, usually superotemporal, absent
 
-        -   Blepharospasm
-
-        -   Portion of lid, usually superotemporal, absent
-
-    -   Treatment:
-
-        -   Medical - Topical lubricants
-
-        -   Surgical - Tarsal pedicle graft
+-   Treatment:
+    -   Medical - Topical lubricants
+    -   Surgical - Tarsal pedicle graft
 
 Anterior Uveitis
 ================
