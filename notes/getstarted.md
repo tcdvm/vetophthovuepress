@@ -3,5 +3,5 @@
 ::: tip Questions or concerns? Something is broken?
 Love ophthalmology and want to share a poem you wrote about it?
 
-Please email Dr. Chen (tchen@utk.edu) with the details.
+Please email Dr. Chen (tchendvm@gmail.com) with the details.
 :::
