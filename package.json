@@ -4,6 +4,11 @@
     "docs:build": "vuepress build notes"
   },
   "devDependencies": {
-    "vuepress": "^0.12.0"
+    "vuepress": "^0.14.11"
+  },
+  "dependencies": {
+    "markdown-it-footnote": "^3.0.1",
+    "markdown-it-smartarrows": "^1.0.1",
+    "save": "^2.3.3"
   }
 }

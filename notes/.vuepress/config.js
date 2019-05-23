@@ -1,8 +1,24 @@
 module.exports = {
+  head: [
+    ["script", { src: `https://cdn.jsdelivr.net/npm/vuetify/dist/vuetify.js` }]
+  ],
   title: "Vet Ophtho",
   description:
     "Learn (or lookup) everything you need to know about animal eyeballs.",
+  markdown: {
+    config: md => {
+      // use more markdown-it plugins!
+      md.set({ typographer: true });
+      md.use(require("markdown-it-footnote"));
+      md.use(require("markdown-it-smartarrows"));
+      md.renderer.rules.footnote_block_open = () =>
+        '<h4 class="mt-3">Footnotes</h4>\n' +
+        '<section class="footnotes">\n' +
+        '<ol class="footnotes-list">\n';
+    }
+  },
   themeConfig: {
+    sidebarDepth: 1,
     serviceWorker: {
       updatePopup: true
     },
@@ -10,6 +26,7 @@ module.exports = {
       apiKey: "348f3dcf64dcfe5736146da0ccae2a54",
       indexName: "vetophtho"
     },
+    lastUpdated: "Last Updated", // string | boolean
     nav: [
       { text: "Home", link: "/" },
       {
@@ -29,6 +46,7 @@ module.exports = {
         title: "Clinics",
         collapsable: false,
         children: [
+          ["./clinics/ophthalmicexam", "Ophthalmic Exam Review"],
           ["./clinics/phaco-orders", "Phaco Orders"],
           ["./clinics/client_handouts", "Client Handouts"],
           ["./clinics/compounding_pharmacies", "Compounding Pharmacies"]

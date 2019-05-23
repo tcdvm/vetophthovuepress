@@ -1,6 +1,9 @@
-### Please use the sidebar to the left to get to your interested-in content or use the search bar in the upper right hand corner.
+### Recent updates
 
+5/2019
 
+- Reformatted & edited [Cornea](cornea/cornea.html)
+- Added [Ophthalmic exam video](clinics/ophthalmicexam.html)
 
 ::: tip Questions or concerns? Something is broken?
 Love ophthalmology and want to share a poem you wrote about it?
