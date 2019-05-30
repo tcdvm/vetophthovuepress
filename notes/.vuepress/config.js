@@ -22,10 +22,10 @@ module.exports = {
     serviceWorker: {
       updatePopup: true
     },
-    algolia: {
-      apiKey: "348f3dcf64dcfe5736146da0ccae2a54",
-      indexName: "vetophtho"
-    },
+    // algolia: {
+    //   apiKey: "348f3dcf64dcfe5736146da0ccae2a54",
+    //   indexName: "vetophtho"
+    // },
     lastUpdated: "Last Updated", // string | boolean
     nav: [
       { text: "Home", link: "/" },
