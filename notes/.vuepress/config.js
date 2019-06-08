@@ -1,6 +1,7 @@
 module.exports = {
+  ga: "UA-113485385-1",
   head: [
-    ["script", { src: `https://cdn.jsdelivr.net/npm/vuetify/dist/vuetify.js` }]
+    // ["script", { src: `https://cdn.jsdelivr.net/npm/vuetify/dist/vuetify.js` }]
   ],
   title: "Vet Ophtho",
   description:
