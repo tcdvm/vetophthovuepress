@@ -1,5 +1,9 @@
 ### Recent updates
 
+6/2019
+
+- Reformatted & edited [Conjunctiva](conjunctiva/conjunctiva.html)
+
 5/2019
 
 - Reformatted & edited [Cornea](cornea/cornea.html)

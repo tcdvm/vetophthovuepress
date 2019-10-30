@@ -1,28 +1,25 @@
 module.exports = {
-  ga: "UA-113485385-1",
+  plugins: [
+    ["@vuepress/google-analytics", { ga: "UA-113485385-1" }],
+    ["@vuepress/pwa"]
+  ],
   head: [
     // ["script", { src: `https://cdn.jsdelivr.net/npm/vuetify/dist/vuetify.js` }]
   ],
-  title: "Vet Ophtho",
-  description:
-    "Learn (or lookup) everything you need to know about animal eyeballs.",
-  markdown: {
-    config: md => {
-      // use more markdown-it plugins!
-      md.set({ typographer: true });
-      md.use(require("markdown-it-footnote"));
-      md.use(require("markdown-it-smartarrows"));
-      md.renderer.rules.footnote_block_open = () =>
-        '<h4 class="mt-3">Footnotes</h4>\n' +
-        '<section class="footnotes">\n' +
-        '<ol class="footnotes-list">\n';
-    }
+  title: "VetOphtho.Org",
+  description: "Online guide to veterinary ophthalmology.",
+  extendMarkdown: md => {
+    md.set({ typographer: true });
+    md.use(require("markdown-it-footnote"));
+    md.use(require("markdown-it-smartarrows"));
+    md.renderer.rules.footnote_block_open = () =>
+      '<h4 class="mt-3">Footnotes</h4>\n' +
+      '<section class="footnotes">\n' +
+      '<ol class="footnotes-list">\n';
   },
   themeConfig: {
     sidebarDepth: 1,
-    serviceWorker: {
-      updatePopup: true
-    },
+    searchMaxSuggestions: 10,
     // algolia: {
     //   apiKey: "348f3dcf64dcfe5736146da0ccae2a54",
     //   indexName: "vetophtho"
