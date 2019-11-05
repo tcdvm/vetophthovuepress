@@ -1,5 +1,10 @@
 ### Recent updates
 
+10/2019
+
+- I'm back! After a few months hiatus working on some silly CE lectures, now I can devote some time to this little website. Did a couple background upgrades (nothing you'll really notice). Hope to restructure the website a little bit in terms of organization and then content.
+- Broke "Search" functionality for a bit - trying to use a fancier thing but not working for now - stay tuned.
+
 6/2019
 
 - Reformatted & edited [Conjunctiva](conjunctiva/conjunctiva.html)

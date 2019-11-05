@@ -12,18 +12,22 @@ module.exports = {
     md.set({ typographer: true });
     md.use(require("markdown-it-footnote"));
     md.use(require("markdown-it-smartarrows"));
+    md.use(require("markdown-it-imsize"));
     md.renderer.rules.footnote_block_open = () =>
       '<h4 class="mt-3">Footnotes</h4>\n' +
       '<section class="footnotes">\n' +
       '<ol class="footnotes-list">\n';
   },
   themeConfig: {
-    sidebarDepth: 1,
-    searchMaxSuggestions: 10,
-    // algolia: {
-    //   apiKey: "348f3dcf64dcfe5736146da0ccae2a54",
-    //   indexName: "vetophtho"
-    // },
+    // sidebarDepth: 1,
+    // searchMaxSuggestions: 10,
+    algolia: {
+      apiKey: "348f3dcf64dcfe5736146da0ccae2a54",
+      indexName: "vetophtho",
+      algoliaOptions: {
+        hitsPerPage: 10
+      }
+    },
     lastUpdated: "Last Updated", // string | boolean
     nav: [
       { text: "Home", link: "/" },
