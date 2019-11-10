@@ -1,5 +1,5 @@
 import VueTypedJs from "vue-typed-js";
-import Vuetify from "vuetify";
+// import Vuetify from "vuetify";
 import "vuetify/dist/vuetify.min.css";
 
 export default ({
@@ -12,6 +12,6 @@ export default ({
     // process is undefined in a browser
     Vue.use(VueTypedJs);
   }
-  Vue.use(Vuetify);
-  options.vuetify = new Vuetify({});
+  // Vue.use(Vuetify);
+  // options.vuetify = new Vuetify({});
 };
