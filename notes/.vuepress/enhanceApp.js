@@ -1,4 +1,6 @@
 import VueTypedJs from "vue-typed-js";
+import Vuetify from "vuetify";
+import "vuetify/dist/vuetify.min.css";
 
 export default ({
   Vue, // the version of Vue being used in the VuePress app
@@ -10,4 +12,6 @@ export default ({
     // process is undefined in a browser
     Vue.use(VueTypedJs);
   }
+  Vue.use(Vuetify);
+  options.vuetify = new Vuetify({});
 };
