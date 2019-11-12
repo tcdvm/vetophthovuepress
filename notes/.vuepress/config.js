@@ -1,7 +1,7 @@
 module.exports = {
   plugins: [
     ["@vuepress/google-analytics", { ga: "UA-113485385-1" }],
-    ["@vuepress/pwa"]
+    ["@vuepress/pwa", { serviceWorker: true, updatePopup: true }]
   ],
   head: [
     // ["script", { src: `https://cdn.jsdelivr.net/npm/vuetify/dist/vuetify.js` }]
@@ -19,15 +19,15 @@ module.exports = {
       '<ol class="footnotes-list">\n';
   },
   themeConfig: {
-    sidebarDepth: 1,
-    searchMaxSuggestions: 10,
-    // algolia: {
-    //   apiKey: "348f3dcf64dcfe5736146da0ccae2a54",
-    //   indexName: "vetophtho",
-    //   algoliaOptions: {
-    //     hitsPerPage: 10
-    //   }
-    // },
+    // sidebarDepth: 1,
+    // searchMaxSuggestions: 10,
+    algolia: {
+      apiKey: "348f3dcf64dcfe5736146da0ccae2a54",
+      indexName: "vetophtho",
+      algoliaOptions: {
+        hitsPerPage: 10
+      }
+    },
     lastUpdated: "Last Updated", // string | boolean
     nav: [
       { text: "Home", link: "/" },

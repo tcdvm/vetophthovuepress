@@ -1,5 +1,9 @@
 ### Recent updates
 
+11/2019
+
+- Search works again! Hooray :tada:
+
 10/2019
 
 - I'm back! After a few months hiatus working on some silly CE lectures, now I can devote some time to this little website. Did a couple background upgrades (nothing you'll really notice). Hope to restructure the website a little bit in terms of organization and then content.
