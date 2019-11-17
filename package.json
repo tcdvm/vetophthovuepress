@@ -4,6 +4,7 @@
     "docs:build": "vuepress build notes"
   },
   "devDependencies": {
+    "@vuepress/plugin-active-header-links": "^1.0.0-rc.1",
     "vuepress": "^1.2.0"
   },
   "dependencies": {
@@ -15,6 +16,8 @@
     "markdown-it-smartarrows": "^1.0.1",
     "save": "^2.4.0",
     "vue-typed-js": "^0.1.2",
+    "vuepress-plugin-container": "^2.1.0",
+    "vuepress-plugin-nprogress": "^1.1.4",
     "vuetify": "^2.1.9"
   }
 }

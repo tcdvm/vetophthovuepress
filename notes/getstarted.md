@@ -1,8 +1,11 @@
-### Recent updates
+## Recent updates
 
 11/2019
 
 - Search works again! Hooray :tada:
+- Made some minor stylistic changes
+- Reorganized - put "clinical" links in group on the sidebar
+- Reformatted & edited [Orbit](orbit/orbit.html), [Eyelids](eyelids/eyelids.html)
 
 10/2019
 

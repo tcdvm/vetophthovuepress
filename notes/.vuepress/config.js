@@ -1,10 +1,9 @@
 module.exports = {
   plugins: [
     ["@vuepress/google-analytics", { ga: "UA-113485385-1" }],
-    ["@vuepress/pwa", { serviceWorker: true, updatePopup: true }]
-  ],
-  head: [
-    // ["script", { src: `https://cdn.jsdelivr.net/npm/vuetify/dist/vuetify.js` }]
+    ["@vuepress/pwa", { serviceWorker: true, updatePopup: true }],
+    ["@vuepress/active-header-links"],
+    ["vuepress-plugin-nprogress"]
   ],
   title: "VetOphtho.Org",
   description: "Online guide to veterinary ophthalmology.",
@@ -19,6 +18,9 @@ module.exports = {
       '<ol class="footnotes-list">\n';
   },
   themeConfig: {
+    sidebarDepth: 2,
+    searchPlaceholder: "Search...",
+    smoothScroll: true,
     // sidebarDepth: 1,
     // searchMaxSuggestions: 10,
     algolia: {
@@ -30,58 +32,60 @@ module.exports = {
     },
     lastUpdated: "Last Updated", // string | boolean
     nav: [
-      { text: "Home", link: "/" },
-      {
-        text: "Clinics",
-        items: [
-          { text: "Client Handouts", link: "./clinics/client_handouts" },
-          { text: "Templates", link: "https://templates.vetophtho.org" },
-          { text: "Drug Instructions", link: "https://drugs.vetophtho.org" }
-          // { text: 'Medication Instructions Generator', link: '/omg/' },
-          // { text: 'Discharge instructions instructions', link: '/discharges/' },
-          // { text: 'Op report templates', link: '/opreports/' }
-        ]
-      }
+      // { text: "Home", link: "/" },
+      // {
+      //   text: "Clinics",
+      //   items: [
+      //     { text: "Client Handouts", link: "./clinics/client_handouts" },
+      //     { text: "Templates", link: "https://templates.vetophtho.org" },
+      //     { text: "Drug Instructions", link: "https://drugs.vetophtho.org" }
+      // { text: 'Medication Instructions Generator', link: '/omg/' },
+      // { text: 'Discharge instructions instructions', link: '/discharges/' },
+      // { text: 'Op report templates', link: '/opreports/' }
+      // ]
+      // }
     ],
     sidebar: [
       {
         title: "Clinics",
-        collapsable: false,
+        collapsable: true,
         children: [
-          ["./clinics/ophthalmicexam", "Ophthalmic Exam Review"],
+          ["./clinics/ophthalmicexam", "Ophthalmic Exam Video"],
+          ["./pharmacology/ocular-pharm", "Drugs"],
           ["./clinics/phaco-orders", "Phaco Orders"],
           ["./clinics/client_handouts", "Client Handouts"],
-          ["./clinics/compounding_pharmacies", "Compounding Pharmacies"]
+          ["./clinics/compounding_pharmacies", "Compounding Pharmacies"],
+          ["https://drugs.vetophtho.org", "Medication List Generator"],
+          ["https://templates.vetophtho.org", "Misc Templates"]
         ]
       },
       {
-        title: "UT Ophtho Course Notes",
+        title: "Small Animal Ophthalmology",
         collapsable: false,
         children: [
-          ["./pharmacology/ocular-pharm", "Pharmacology"],
           ["./orbit/orbit", "Orbit"],
           ["./eyelids/eyelids", "Eyelids"],
-          ["./cornea/cornea", "Cornea"],
+          ["./nasolacrimal/nasolacrimal", "Nasolacrimal"],
+          ["./kcs/kcs", "KCS/Dry Eye"],
           ["./conjunctiva/conjunctiva", "Conjunctiva"],
           ["./nictitans/nictitans", "Nictitans"],
+          ["./cornea/cornea", "Cornea"],
+          ["/glaucoma/glaucoma", "Glaucoma"],
           ["./anterioruvea/anterioruvea", "Anterior Uvea"],
           ["./lensvitreous/lens_and_vitreous", "Lens & Vitreous"],
-          ["./kcs/kcs", "KCS/Dry Eye"],
-          ["/glaucoma/glaucoma", "Glaucoma"],
-          ["./nasolacrimal/nasolacrimal", "Nasolacrimal"],
+          ["./retinaopticnerve/retina_and_optic_nerve", "Retina & Optic Nerve"],
           ["./neuroophthalmology/neuroophthalmology", "Neuro-ophthalmology"],
-          ["./feline/feline", "Feline"],
-          ["./retinaopticnerve/retina_and_optic_nerve", "Retina & Optic Nerve"]
-        ]
-      },
-      {
-        title: "Lab Handouts",
-        collapsable: false,
-        children: [
-          ["./labhandouts/anatomy_physiology", "Anatomy/Physiology"],
-          ["./labhandouts/surgical_techniques", "Surgical Techniques"]
+          ["./feline/feline", "Feline"]
         ]
       }
+      // {
+      //   title: "Lab Handouts",
+      //   collapsable: false,
+      //   children: [
+      //     ["./labhandouts/anatomy_physiology", "Anatomy/Physiology"],
+      //     ["./labhandouts/surgical_techniques", "Surgical Techniques"]
+      //   ]
+      // }
     ]
   }
 };
