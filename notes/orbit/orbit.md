@@ -10,7 +10,6 @@
 ## Primary Clinical Signs
 
 - Exophthalmia
-
   - Definition: Abnormal protrusion or bulging forward of the eyeball.
     - Exophthalmia is the principle clinical sign in dogs with orbital disease
     - Most easily seen by viewing animal from above
@@ -19,7 +18,6 @@
     - Neoplasia
     - Cellulitis
     - Traumatic proptosis
-
 - Ocular deviation
 - Third eyelid protrusion
 - Reduced retropulsion
@@ -38,7 +36,6 @@
 
 - Definition: Cancer of the orbit.
 - Clinical signs / history
-
   - Older animals
   - Slowly progressive exophthalmia
   - Third eyelid protrusion
@@ -46,18 +43,14 @@
   - ± ocular deviation
   - ± retinal indentation
   - Oral cavity exam normal
-
 - Etiology (i.e., most common tumor types):
-
   - In general, malignant
   - Most commonly mesenchymal
     - Fibrosarcoma
     - Osteosarcoma
   - Carcinomas
   - Other orbital tissues (e.g., MCT, hemangiosarcoma, meningioma, etc)
-
 - Diagnosis:
-
   - Clinical signs / history
   - Ultrasound
   - Advanced imaging
