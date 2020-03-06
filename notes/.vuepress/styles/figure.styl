@@ -1,0 +1,63 @@
+
+figure {
+  margin: 1rem;
+  position: relative;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	// border: 1px solid black;
+	display: flex;
+  
+  figcaption {
+    background: rgba(250,250,250, .8);
+    bottom: 0px; // moves up just a bit to get the "title" showing more evenly
+    box-sizing: border-box;
+    width: 100%;
+    padding: 1rem;
+    // -webkit-transition: max-height 0.3s ease-out;
+    overflow: hidden;
+		transition: height .3s ease-in;
+  }
+  
+  p { margin-top: .5rem; }
+}
+	
+@media screen and (min-width: 720px) {
+	figure {
+		// width: calc(50% - 2rem);
+		
+		figcaption { 
+      height: 50px; 
+      position: absolute;
+      p {
+        opacity: 0;
+      }
+    }
+	
+		&:hover {
+			figcaption {
+				position: absolute;
+				bottom: 0;
+				width: 100%;
+				height: 100%;
+				transition: height .5s ease-in;
+			}
+			
+			p {
+				opacity: 1;
+				-webkit-transition: opacity .5s ease-in .6s;
+				-moz-transition: opacity .5s ease-in .6s;
+				-ms-transition: opacity .5s ease-in .6s;
+				transition: opacity .5s ease-in .6s;
+			}
+		}
+	}
+}
+
+@media screen and (max-width: 719px) {
+	figure { 
+		width: 100% 
+		display: block;
+	}
+	
+	p { opacity: 1; }
+	figcaption { height: auto; position: static;}
+}

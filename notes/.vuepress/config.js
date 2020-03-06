@@ -3,19 +3,30 @@ module.exports = {
     ["@vuepress/google-analytics", { ga: "UA-113485385-1" }],
     ["@vuepress/pwa", { serviceWorker: true, updatePopup: true }],
     ["@vuepress/active-header-links"],
-    ["vuepress-plugin-nprogress"]
+    ["vuepress-plugin-nprogress"],
+    ["vuepress-plugin-container",
+      {
+        type: 'detail',
+        defaultTitle: '',
+        before: info => `<details class="detail"><summary>${info}</summary>`,
+        after: '</details>',
+      }
+    ]
   ],
   title: "VetOphtho.Org",
   description: "Online guide to veterinary ophthalmology.",
-  extendMarkdown: md => {
-    md.set({ typographer: true });
-    md.use(require("markdown-it-footnote"));
-    md.use(require("markdown-it-smartarrows"));
-    md.use(require("markdown-it-imsize"));
-    md.renderer.rules.footnote_block_open = () =>
-      '<h4 class="mt-3">Footnotes</h4>\n' +
-      '<section class="footnotes">\n' +
-      '<ol class="footnotes-list">\n';
+  markdown: {
+    extendMarkdown: md => {
+      md.set({ typographer: true });
+      md.use(require("markdown-it-footnote"));
+      md.use(require("markdown-it-smartarrows"));
+      md.use(require("markdown-it-imsize"));
+      md.use(require("markdown-it-task-lists"), { label: true });
+      md.renderer.rules.footnote_block_open = () =>
+        '<h4 class="mt-3">References/Footnotes</h4>\n' +
+        '<section class="footnotes">\n' +
+        '<ol class="footnotes-list">\n';
+    },
   },
   themeConfig: {
     sidebarDepth: 2,
@@ -55,6 +66,8 @@ module.exports = {
           ["./clinics/phaco-orders", "Phaco Orders"],
           ["./clinics/client_handouts", "Client Handouts"],
           ["./clinics/compounding_pharmacies", "Compounding Pharmacies"],
+          ["./labhandouts/anatomy_physiology", "Anatomy/Physiology Handout"],
+          ["./labhandouts/surgical_techniques", "Surgical techniques Handout"],
           ["https://drugs.vetophtho.org", "Medication List Generator"],
           ["https://templates.vetophtho.org", "Misc Templates"]
         ]
