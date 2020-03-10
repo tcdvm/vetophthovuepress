@@ -22,6 +22,7 @@ module.exports = {
       md.use(require("markdown-it-smartarrows"));
       md.use(require("markdown-it-imsize"));
       md.use(require("markdown-it-task-lists"), { label: true });
+      md.use(require("markdown-it-video"));
       md.renderer.rules.footnote_block_open = () =>
         '<h4 class="mt-3">References/Footnotes</h4>\n' +
         '<section class="footnotes">\n' +

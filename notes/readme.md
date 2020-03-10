@@ -1,5 +1,5 @@
 ---
-home: true
+home: false
 # heroImage: /cat.jpg
 actionText: Get Started →
 actionLink: /getstarted

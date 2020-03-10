@@ -21,6 +21,8 @@ The main clinical sign associated with diseases of the orbit is **exophthalmia**
 
 While it is possible to quantitatively measure degree of exophthalmia (with a device called exophthalmometer) most of the time it's possible to guage exophthalmia by guaging symmetry from various angles as illustrated below.
 
+@[youtube](lCmXBigBCFY)
+
 Other times there may other clinical signs signs as strabismus (e.g. an eye that points in abnormal direction) or a persistently elevated third eyelid. The latter can be from a mass pushing the third eyelid forward or pushing the eye forward and trapping the third eyelid in an anterior position. Reduced retropulsion is also noted.
 
 ::: warning
@@ -107,7 +109,7 @@ Diagnosis of orbital tumors usually requires advanced imaging. CT is good for bo
 *In general, orbital tumors are malignant, aggressive, and have a very poor prognosis for the animal.* Sadly, many of these animals with orbital tumors are euthanized shortly after diagnosis. If treatment is desired, depending on the tumor type and origin, surgical resection with an exteneration can be performed, in addition to radiation, and potentially chemotherapy.
 
 <figure>
-  <img src="./images/retrobulbarneoplasia.jpg" alt="Dog with Retrobulbar Neoplasia" style="width:100%">
+  <img src="./media/images/retrobulbarneoplasia.jpg" alt="Dog with Retrobulbar Neoplasia" style="width:100%">
 		<figcaption>
 		<b>Dog with Retrobulbar Neoplasia</b>
 		<p>
@@ -147,7 +149,7 @@ This is a relatively uncommon condition that is usually seen in young Golden Ret
 
 Treatment is with immunosuppressive doses of steroids (1-2 mg/kg/day) - the author will usually do it for about a month and then gradually taper. Long-term treatment may be needed (i.e. when the dog starts to look surprised again when tapering down steroids) and transitioning to a less steroid-side-effectless medication like azathioprine or mycophenolate can be done as well with proper and regular monitoring for adverse side effects. Consult your local friendly internist or ophthalmologist for guidelines on immunosuppresssive use if there are questions or concerns. 
 <figure>
-  <img src="./images/extraocularmyositis.png" alt="Extraocularmyositis Dog" style="width:100%">
+  <img src="./media/images/extraocularmyositis.png" alt="Extraocularmyositis Dog" style="width:100%">
 		<figcaption>
 		<b>Clinical Appearance of Extraocular Myositis</b>
 		<p>
