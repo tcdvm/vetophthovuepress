@@ -1,7 +1,7 @@
 import VueTypedJs from "vue-typed-js";
 // import Vuetify from "vuetify";
 // import "vuetify/dist/vuetify.min.css";
-import VueCarousel from 'vue-carousel';
+// import VueCarousel from 'vue-carousel';
 
 
 export default ({
@@ -13,7 +13,7 @@ export default ({
   if (typeof process === "undefined") {
     // process is undefined in a browser
     Vue.use(VueTypedJs);
-    Vue.use(VueCarousel);
+    // Vue.use(VueCarousel);
   }
   // Vue.use(Vuetify);
   // options.vuetify = new Vuetify({});
