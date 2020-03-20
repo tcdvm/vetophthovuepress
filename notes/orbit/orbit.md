@@ -7,7 +7,7 @@ The orbit refers to the bone and muscle that surrounds and protects the eye.
 
 While the globe occupies the majority of space within the orbit (especially in brachycephalics), there is also fat, muscles (e.g. extraocular muscles), and associated nerves and vasculature. In addition, the lacrimal gland and a portion of the zygomatic gland are contained within the orbit. This is somewhat relevant when considering differentials for tumors and for changes in the globe position.
 
-The space behind the eye is referred to as the "retrobulbar space" and the volume of that spaces varies significantly depending on the skull conformation. Broadly there are three forms, from increasing to decreasing volume: dolicocephalic, mesacephalic, and brachycephalic (this last one keeps us in business!).
+The space behind the eye is referred to as the "retrobulbar space" and the volume of that space varies significantly depending on the skull conformation. Broadly there are three forms, from increasing to decreasing volume: dolicocephalic, mesacephalic, and brachycephalic (this last one keeps us in business!).
 
 ::: detail Cephalicness and impact on ocular health
 Cephalicness is calculated based on a ratio of head width to head length. Brachycephalics have large indexes as their heads get wider and the length gets shorter. The contents in the "middle" get distorted by the altered anatomy and this distortion results in increased risk for ulceration or conjunctivitis^[Packer RM, Hendricks A, Burn CC. Impact of facial conformation on canine health: corneal ulceration. PLoS One. 2015;10(5):e0123827. Published 2015 May 13. doi:10.1371/journal.pone.0123827].
@@ -40,7 +40,7 @@ The main etiologies for exophthalmia can usually be divided into two big categor
 | Clinical Assessment       | Inflammatory  | Neoplastic |
 |---------------------------|----------------------------|--------------------------------------|
 | History                   | Acute presentation         | Chronic/slow presentation |
-| Signalment                | Generally younger (~ 4 yo average ) | Generally older (~ 9 yo average) |
+| Signalment                | Generally younger (~ 4 yo average) | Generally older (~ 9 yo average) |
 | Ophthalmic Exam           | Can have pain/tenderness when manipulating eye or head  | May not show any obvious comfort but some tumors can be painful (e.g. with bone lysis or secondary inflammation)|
 | Oral Exam                 | May be difficult to perform - animal may protest, if under general anesthesia or heavy sedation, exam area just behind the molars for swelling/redness | Not as painful to open the mouth, may be clinically normal |
 | Bloodwork                 | Inflammatory leukogram (e.g. neutrophilia) | Normal-ish |
