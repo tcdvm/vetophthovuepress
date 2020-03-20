@@ -1,5 +1,9 @@
 ## Recent updates
 03/2020
+- Whoa, hello COVID-19! Now that you're here and I can't go to work and the economy is dying, it's time to focus on things that matter! Fonts! Changed the site-wide font, I think it looks prettier.
+- More updates to follow I'm finding myself with all this free time.
+
+03/2020
 - Happy New Year!
 - Still working on this thing (slow but sure)
 - Added "Lab handouts" in Clinics per Dr. Cherry's request
