@@ -15,13 +15,13 @@ Cephalicness is calculated based on a ratio of head width to head length. Brachy
 Overall brachycephalics have shallower orbits which leads to exophthalmia/lagophthalmia which results in more prominence for trauma. In addition, corneal sensitivity in these dogs is lowered ^[Barrett, P.M., Scagliotti, R.H., Merideth, R.E., Jackson, P.A. & Alarcon, F.L. (1991) Absolute corneal sensitivity and corneal trigeminal nerve anatomy in normal dogs. Progress in Veterinary & Comparative Ophthalmology, 1, 245–254.] which can result in slower reaction times to trauma, lowered tear production, etc. which may all play into the reason why these dogs can be ophthalmological nightmares.
 :::
 
-## Clinical Signs Associated with Diseases of the Orbit
+## Clinical Signs of Diseases of the Orbit
 
 The main clinical sign associated with diseases of the orbit is **exophthalmia** which is an abnormal protrusion or bulging forward of the eye. Somtimes this can be seen as an overall increase in prominence in the globe but can also be noted if the eye is shifted out of the normal axis.
 
 While it is possible to quantitatively measure degree of exophthalmia (with a device called exophthalmometer) most of the time it's possible to guage exophthalmia by guaging symmetry from various angles as illustrated below.
 
-@[youtube](lCmXBigBCFY)
+@[youtube](Yly4Nl4DpsE)
 
 Other times there may other clinical signs signs as strabismus (e.g. an eye that points in abnormal direction) or a persistently elevated third eyelid. The latter can be from a mass pushing the third eyelid forward or pushing the eye forward and trapping the third eyelid in an anterior position. Reduced retropulsion is also noted.
 
@@ -55,7 +55,7 @@ See below for further details on each condition.
 
 Retrobulbar inflammation can be generalized (cellulitis) or organized (abscess) to the tissues behind the globe. Both can result in significant exophthalmia. Pain is most often noted when opening (or trying to open) the mouth as the ramus of the mandible will extend into the orbit on opening and this results in significant discomfort with cellulitis (i.e. moving a bone into inflammed tissues is going to hurt). The orbital or periorbital tissues may also be painful upon palpation and  the surrounding tissue around the eye such as the conjunctiva may also be inflammed or significantly swollen (chemotic).
 
-The source of the inflammation can be from organisms that enter behind the eye from a bone or stick that punctures through the pterygoid muscle behind the last molar, from infected molar roots, or from other neighboring structures (e.g. nose & ear - probably would have to be pretty significant if it crosses through all the neigboring structures or bone). Additionally, it's thought that hematogenous spread is also possible - where are how this happens is unknown.
+The source of the inflammation can be from organisms that enter behind the eye from a bone or stick that punctures through the pterygoid muscle behind the last molar, from infected molar roots, or from other neighboring structures (e.g. nose & ear - probably would have to be pretty significant if it crosses through all the neigboring structures or bone). Additionally, it's thought that hematogenous spread is also possible - where or how this happens is unknown.
 
 Definitive diagnosis usually requres with imaging and getting a sample that is deemed infected or solely inflammatory. A high index of suspicion for cellulitis should be held if the history and clinical signs are consistent with what is noted [in the table above under the "inflammatory" column](#clinical-approach-to-exophthalmia) but neoplasia should always also be a differential.
 
