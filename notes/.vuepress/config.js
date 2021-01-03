@@ -70,7 +70,8 @@ module.exports = {
           ["./labhandouts/anatomy_physiology", "Anatomy/Physiology Handout"],
           ["./labhandouts/surgical_techniques", "Surgical techniques Handout"],
           ["https://drugs.vetophtho.org", "Medication List Generator"],
-          ["https://templates.vetophtho.org", "Misc Templates"]
+          ["https://medgrid.vetophtho.org", "Ophtho Meds Grid(new! 1/2021)"]
+          //          ["https://templates.vetophtho.org", "Misc Templates"]
         ]
       },
       {

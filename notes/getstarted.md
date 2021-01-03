@@ -1,4 +1,13 @@
 ## Recent updates
+01/2020
+- Happy New Year!
+- Added a new project I'v been working on - the Ophtho Medications Grid
+	- Allows searching for medications
+	- Filtering based on drug class, disease for use, and cost
+	- Contains info on dosing frequency, mechanism of action, and warnings
+- Also edited some stuff in Eyelids
+- Will continue working on things hopefully in the new year!
+
 03/2020
 - Whoa, hello COVID-19! Now that you're here and I can't go to work and the economy is dying, it's time to focus on things that matter! Fonts! Changed the site-wide font, I think it looks prettier.
 - More updates to follow since I'm finding myself with all this free time.

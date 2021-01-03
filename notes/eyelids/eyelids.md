@@ -59,43 +59,53 @@ At times infection can occur underneath the eyelids while they are still sealed.
 
 ## Abnormalities of Eyelid Hairs (Cilia)
 
-**Summary Table**
-|           | Description                | Problem | Treatment |
-|-----------|----------------------------|--------------------------------------|--|
-| Trichiasis| **Normal** hair on the eyelid or nearby skin (e.g. nasal fold) that extends onto the cornea | Can result in chronic keratitis or ulceration. Other times may not have overt clinical signs (animal is comfortable). | Removing the hairs may mean correction of the eyelid conformation (e.g. entropion) or removal of the offending haired tissue from around the eye (e.g. nasal fold resection)  |
-| Distichia | **Abnormal** hairs arising from the tissue around the Meibomian glands (MG) that extend through the **MG openings/pores at the eyelid margin** | Generally older (~ 9 yo average) | |
-| Ectopic Cilia | **Abnormal** hairs arising from the tissue around the Meibomian glands (MG) that extend through the **conjunctiva on the bulbar side of the eyelid** | Generally older (~ 9 yo average) | |
+
 ### Trichiasis
 
-Trichiasis is when you have **normal** hair making contact with the cornea. Usually this from prominent nasal folds (e.g. pug or English Bulldog) or from other conformational changes/abnormalities (e.g. entropion). Look for keratitis in the region of the cornea being touched by the trichiasis.
+Trichiasis is when **normal** hair makes contact with the cornea or globe. Usually this is from prominent nasal folds (e.g. pug or English Bulldog) or from other conformational changes/abnormalities such as entropion. In some breeds (e.g. Shih Tzu) the hair can arise from a patch of skin at the medial canthus (medial trichiasis).
 
 Treatment
-- Train hair away with petroleum jelly; do a pocket medial canthoplasty or facial fold resection
+- If trichiasis is secondary to entropion, correct underlying entropion with surgery (pocket medial canthoplasty for medial trichiasis, Hotz-Celsus for latera entropion, or facial fold resection)or temporary measures (tacking, subdermal lid filler)
 
 ### Distichia
+-  **Abnormal** hairs arising from the tissue around the Meibomian glands (MG) that extend through the MG openings or pores at the eyelid margin 
+- Usually **not** problematic - many dogs will have long or many distichia without any issue or problem. However, occassionally "stout" distichia or dogs that are particularly sensitive to hairs, may exhibit discomfort, keratitis, or rarely, ulceration in the presence of distichia. 
+
+Treatment
+- Plucking distichia and assessing response to distichia's absence will help confirm they are a problem (vs like allergies). 
+- If distichia strongly suspected to be an issue, then can remove the hair but regrowth likely, therefore reduce chances of that occuring with either cryotherapy to terminate the hair follicle or use electrocautery. 
+- Surgical means of removing parts of the eyelid can also be utilized but require precise techniques to avoid significant scarring to the lid margin.
 
 ### Ectopic Cilia
+| Ectopic Cilia | **Abnormal** hairs arising from the tissue around the Meibomian glands (MG) that extend through the **conjunctiva on the bulbar side of the eyelid** | Usually causes a problem; be most suspicious in young dogs with persistent blepharospasm or ulcers or keratitis focused on the dorsal aspect of the cornea (closest to the dorsal lid) | Treatment is sugical removal (en bloc resection) with cryotherapy potentially to prevent regrowth of ectopic cilia. |
 
-Eversion of eyelid, seen in Bloodhound, Bassett, Cockers, St. Bernard. Clinical signs are eversion of eyelid, chronic conjunctivitis, ocular discharge, +/- keratitis.
-
-Treatment: None is usually needed unless keratitis is present
-
-- Medical: intermittent topical corticosteroids
-- Surgery: modified Kuhnt-Symanowski procedure – V to Y plasty
 
 ## Abnormalities of Eyelid Conformation
 
 ### Ectropion
+- Eversion of eyelid seen in Bloodhounds, Bassetts, Cockers, St. Bernards, or unfortunately, in over-corrected entropion surgeries
+- Clinical signs include gross eversion of eyelid, chronic conjunctivitis, ocular discharge, +/- keratitis. 
+- Underlying primary cause is usually excessive lid length or lid laxity
+
+Treatment: None is usually needed unless keratitis is present
+- Medical: Intermittent flushing or lubrication & topical corticosteroids
+- Surgery: Lid shortening (wedge resection) alone or in combination with lid "strengthening" techniques to help with lid laxity
 
 ### Entropion
-
-Entropion (Pagoda lid, diamond eye): Predisposed breeds are St. Bernard, Newfoundland, English bulldog, Cocker, Bloodhound.
-
-Clinical Signs
-- Entropion laterally and medially with central ectropion, +/- keratitis, chronic conjunctivitis, discharge.
+- Entropion is rolling in of the eyelid, likely with trichiasis and (ulcerative) keratitis to follow
+- Causes of entropion include:
+  - Congenital (e.g. Sharpei) or developmental (puppy)
+  - Cicatricial (from scarring, say from an unrepaired eyelid laceration)
+  - Spastic - when intense squinting results in rolling in of the eyelid
+      - To diagnosis spastic entropion, place a drop of proparacaine into the affected eye and assess whether conformation of the lid returns to "normal" (may have to flip out and play with the lid to see how it goes)
+      - If the lid stays entropic, then you have a more permanent problem
+- Clinical signs include ulcerative or nonulcerative keratitis in the region of entropion, chronic conjunctivitis, discharge.
 
 Treatment
-- Usually none, but several surgical procedures are described.
+- Depends on the type or cause of the entropion
+- The author usually thinks of entropion treatment in terms of 2 large categories:
+  - Entropion that get better with time (puppy entropion) or with resolution of the primary cause (e.g. when an ulcer heals)
+  - Entropion that will not get better with time
 
 ## Lagophthalmia
 
