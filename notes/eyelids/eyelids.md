@@ -77,7 +77,10 @@ Treatment
 - Surgical means of removing parts of the eyelid can also be utilized but require precise techniques to avoid significant scarring to the lid margin.
 
 ### Ectopic Cilia
-| Ectopic Cilia | **Abnormal** hairs arising from the tissue around the Meibomian glands (MG) that extend through the **conjunctiva on the bulbar side of the eyelid** | Usually causes a problem; be most suspicious in young dogs with persistent blepharospasm or ulcers or keratitis focused on the dorsal aspect of the cornea (closest to the dorsal lid) | Treatment is sugical removal (en bloc resection) with cryotherapy potentially to prevent regrowth of ectopic cilia. |
+- **Abnormal** hairs arising from the tissue around the Meibomian glands (MG) that extend through the **conjunctiva on the bulbar side of the eyelid** 
+- Usually causes a problem; be most suspicious in young dogs with persistent blepharospasm or ulcers or keratitis focused on the dorsal aspect of the cornea (closest to the dorsal lid) 
+ 
+ Treatment is sugical removal (en bloc resection) with cryotherapy potentially to prevent regrowth of ectopic cilia. 
 
 
 ## Abnormalities of Eyelid Conformation
