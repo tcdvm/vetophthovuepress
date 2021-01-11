@@ -62,12 +62,16 @@ At times infection can occur underneath the eyelids while they are still sealed.
 
 ### Trichiasis
 
+<img class="plain-fig" src="/eyelids/media/images/NasalFoldTrichiasis.png" alt="Nasal Trichiasis in a pug Image" style="width:100%">
+
 Trichiasis is when **normal** hair makes contact with the cornea or globe. Usually this is from prominent nasal folds (e.g. pug or English Bulldog) or from other conformational changes/abnormalities such as entropion. In some breeds (e.g. Shih Tzu) the hair can arise from a patch of skin at the medial canthus (medial trichiasis).
 
 Treatment
-- If trichiasis is secondary to entropion, correct underlying entropion with surgery (pocket medial canthoplasty for medial trichiasis, Hotz-Celsus for latera entropion, or facial fold resection)or temporary measures (tacking, subdermal lid filler)
+- If trichiasis is secondary to entropion, correct underlying entropion with surgery (pocket medial canthoplasty for medial trichiasis, Hotz-Celsus for entropion, or facial fold resection) or temporary measures (tacking, subdermal lid filler)
 
 ### Distichia
+<img class="plain-fig" src="/eyelids/media/images/Distichia.png" alt="Distichia Image" style="width:100%">
+
 -  **Abnormal** hairs arising from the tissue around the Meibomian glands (MG) that extend through the MG openings or pores at the eyelid margin 
 - Usually **not** problematic - many dogs will have long or many distichia without any issue or problem. However, occassionally "stout" distichia or dogs that are particularly sensitive to hairs, may exhibit discomfort, keratitis, or rarely, ulceration in the presence of distichia. 
 
@@ -77,6 +81,11 @@ Treatment
 - Surgical means of removing parts of the eyelid can also be utilized but require precise techniques to avoid significant scarring to the lid margin.
 
 ### Ectopic Cilia
+<TwentyTwenty class="plain-fig"
+  before="/eyelids/media/images/EctopicCiliaRight.png"
+  after="/eyelids/media/images/EctopicCiliaLeft.png"
+  offset="0.03"/>
+
 - **Abnormal** hairs arising from the tissue around the Meibomian glands (MG) that extend through the **conjunctiva on the bulbar side of the eyelid** 
 - Usually causes a problem; be most suspicious in young dogs with persistent blepharospasm or ulcers or keratitis focused on the dorsal aspect of the cornea (closest to the dorsal lid) 
  
