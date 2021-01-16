@@ -95,52 +95,93 @@ Treatment
 ## Abnormalities of Eyelid Conformation
 
 ### Ectropion
+<figure>
+  <img src="/eyelids/media/images/Ectropion.png" alt="Ectropion/Pagoda Picture" style="width:100%">
+		<figcaption>
+		<b>Ectropion in a bloodhound</b>
+		<p>
+    <ul>
+      <li> Note the exposure of the conjunctiva and the little "pocket" that forms as a result of the eversion. </li> 
+      <li> This particular conformation with the lid so ectropic it forms kind of a diamond shape is sometimes called a "pagoda" lid by people who want to sound cool and give the abnormality an oriental kind of flavor. </li>
+      <li>Other forms of ectropion may not necessarily have this diamond shape.</li>
+    </ul>
+    </p>
+	</figcaption>
+</figure>
+
 - Eversion of eyelid seen in Bloodhounds, Bassetts, Cockers, St. Bernards, or unfortunately, in over-corrected entropion surgeries
 - Clinical signs include gross eversion of eyelid, chronic conjunctivitis, ocular discharge, +/- keratitis. 
 - Underlying primary cause is usually excessive lid length or lid laxity
 
-Treatment: None is usually needed unless keratitis is present
+Treatment
+- None is usually needed unless keratitis is present
 - Medical: Intermittent flushing or lubrication & topical corticosteroids
 - Surgery: Lid shortening (wedge resection) alone or in combination with lid "strengthening" techniques to help with lid laxity
 
 ### Entropion
+<figure>
+  <img src="/eyelids/media/images/EntropionCat.png" alt="Entropion in a Cat" style="width:100%">
+		<figcaption>
+		<b>Entropion (and what else) in a cat?</b>
+		<p>
+    <ul>
+      <li>Note the normal upper lid where the lid margin is clearly visible</li>
+      <li>The lateral 2/3rd (or more) are rolled in (no visible margin because it's rolled in) and the hairs are physically connecting with the cornea (trichiasis) resulting in...</li>
+      <li><b>Keratitis</b> (that's the other thing) as evidenced by neovascularization in the lateral half or so of the visible cornea</li>
+      <li>When diagnosing entropion, look for supporting evidence with keratitis or ulcers in the suspected region</li>
+    </ul>
+    </p>
+	</figcaption>
+</figure>
+
 - Entropion is rolling in of the eyelid, likely with trichiasis and (ulcerative) keratitis to follow
 - Causes of entropion include:
   - Congenital (e.g. Sharpei) or developmental (puppy)
   - Cicatricial (from scarring, say from an unrepaired eyelid laceration)
   - Spastic - when intense squinting results in rolling in of the eyelid
-      - To diagnosis spastic entropion, place a drop of proparacaine into the affected eye and assess whether conformation of the lid returns to "normal" (may have to flip out and play with the lid to see how it goes)
+      - To diagnose spastic entropion, place a drop of proparacaine into the affected eye and assess whether conformation of the lid returns to "normal" (may have to flip out and play with the lid to see how it goes)
       - If the lid stays entropic, then you have a more permanent problem
 - Clinical signs include ulcerative or nonulcerative keratitis in the region of entropion, chronic conjunctivitis, discharge.
 
 Treatment
 - Depends on the type or cause of the entropion
 - The author usually thinks of entropion treatment in terms of 2 large categories:
-  - Entropion that get better with time (puppy entropion) or with resolution of the primary cause (e.g. when an ulcer heals)
-  - Entropion that will not get better with time
+  1. Entropion that **will most likely** get better with time (puppy entropion) or with resolution of the primary cause (i.e. spastic entropion that resolves after an ulcer heals)
+      - For puppy entropions, the entropion should be temporarily corrected by temporarily tacking the eyelid down or maybe with a collagen injection if the entropion is mild-moderate
+      - For spastic entropions, temporary tack the eyelid and allow the "painful" pathology of the eye resolve (e.g. ulcer heal). Remove sutures when confident dog is comfortable.
+  2. Entropion that will **not** get better with time
+      - These cases require surgical correction - with Hotz Celsus or comparable surgical technique
 
-## Lagophthalmia
+## Other Eyelid-Related Conditions
 
-Failure to blink completely. Sometimes due to facial nerve paralysis, but more commonly seen in brachycephalics as a conformational problem. The orbits in these dogs are so shallow that the eyeballs protrude anteriorly – so-called “physiologic exophthalmos.” 
+### Lagophthalmia
+
+- Lagophthalmia is failure to blink completely. 
+- Sometimes due to facial nerve paralysis, but more commonly seen in brachycephalics as a conformational problem. 
+- The orbits in these dogs are so shallow that the eyeballs protrude anteriorly – so-called “physiologic exophthalmos.” 
 
 Treatment (if necessary)
-- Medial canthoplasty. A surgical procedure that shortens the palpebral fissure. In short, the nasal few mm of the superior and inferior lids are freshened and sutured together. By shortening the palpebral fissure each blink covers more of the cornea, thus reducing the lagophthalmia. As added bonuses this procedure also eliminates medial canthal entropion and medial aberrant dermis.
+- Medial canthoplasty. 
+  - A surgical procedure that shortens the palpebral fissure. 
+  - In short, the nasal few mm of the superior and inferior lids are freshened and sutured together. 
+  - By shortening the palpebral fissure each blink covers more of the cornea, thus reducing the lagophthalmia. 
+  - As an added bonuses this procedure also eliminates medial canthal entropion and medial aberrant dermis.
 
-## Medial aberrant dermis
+### Medial aberrant dermis
 
 Small breeds often have a small piece of dermis in the medial canthus of the eye, and hairs often emanate from this piece of dermis. Due to their location, these hairs can irritate the nasal aspect of the cornea leading to pigmentation, but they are often asymptomatic if they are the only ocular abnormality.
 
 Treatment
 - Medial canthoplasty
 
-## Ophthalmia neonatorum
+### Ophthalmia neonatorum
 
 Infection (usually staph) under fused lids prior to the lids opening. Lids are swollen, a purulent exudate may be evident. Pup or kitten is older than 14 days.
 
 Treatment
 - Warm compresses are placed, the lid margin is split carefully with blunt scissors and the conjunctiva is flushed. Check for ulcers. Treat with topical antibiotic based on culture and sensitivity.
 
-## Eyelid masses
+### Eyelid masses
 
 1.  Chalazion: Granulomatous inflammation of the tarsal gland/glands. Localized mass beneath conjunctival surface, middle-aged dogs.
 
@@ -155,6 +196,6 @@ Treatment
     - Treatment
       - 1/3 of the eyelid margin can safely be removed without decreasing function. If &gt;1/3 of the margin needs to be removed, then blepharoplastic procedures need to be done. For small tumors a wedge resection or pentagonal excision is done. The details of how to perform a wedge resection can be found in the “Surgical Techniques” notes as well as in texts. Accurate closure of the margin with the figure-8 suture is of utmost importance to prevent postoperative corneal irritation and/or ulceration.
 
-## Eyelid lacerations
+### Eyelid lacerations
 
 Because of the tremendous blood supply, only minimal debridement should be done if at all. Immediate repair is a necessity to prevent tissue loss. Place the figure-8 margin suture first. Two layer closure is needed for long lacerations. Make sure no sutures penetrate the conjunctiva.
