@@ -169,33 +169,65 @@ Treatment (if necessary)
 
 ### Medial aberrant dermis
 
+<img class="plain-fig" src="/eyelids/media/images/MedialAberrantDermis.png" alt="Medial Aberrant Dermis" style="width:100%">
+
 Small breeds often have a small piece of dermis in the medial canthus of the eye, and hairs often emanate from this piece of dermis. Due to their location, these hairs can irritate the nasal aspect of the cornea leading to pigmentation, but they are often asymptomatic if they are the only ocular abnormality.
 
 Treatment
+- Benign neglect usually (cannot trim them away at the groomers unless they are super brave and anyway they'll just regrow)
 - Medial canthoplasty
 
 ### Ophthalmia neonatorum
+<img class="plain-fig" src="/eyelids/media/images/OphthalmiaNeonatorum.png" alt="Ophthalmia Neonatorum Image" style="width:100%">
 
-Infection (usually staph) under fused lids prior to the lids opening. Lids are swollen, a purulent exudate may be evident. Pup or kitten is older than 14 days.
+- Infection (usually staph) under fused lids prior to the lids opening. 
+- Lids are swollen, a purulent exudate may be evident 
+- Affected puppies or kittens are usually older than 14 days (past the point of where their eyelids should open)
 
 Treatment
-- Warm compresses are placed, the lid margin is split carefully with blunt scissors and the conjunctiva is flushed. Check for ulcers. Treat with topical antibiotic based on culture and sensitivity.
+- Warm compresses are placed, the lid margin is split carefully with blunt scissors and the conjunctiva is flushed
+- Check for ulcers 
+- Treat with topical antibiotic based on culture and sensitivity
 
 ### Eyelid masses
+<img class="plain-fig" src="/eyelids/media/images/Eyelidmasses.png" alt="Grid of Eyelid Masses" style="width:100%">
 
-1.  Chalazion: Granulomatous inflammation of the tarsal gland/glands. Localized mass beneath conjunctival surface, middle-aged dogs.
+***Neoplasia***
+- &gt; 90% of eyelid margin tumors are benign
+- The most common are adenomas arising from the Meibomian glands (see top row in above image for examples)
+- Papillomas and melanomas can also be seen, both of which also behave relatively benignly
+- More rarely, malignancies such as mast cell tumor, squamous cell carcinoma, hemangiosarcoma, and fibrosarcoma will be encountered
+- The main problem induced by the benign tumors is that if they get large enough they will interfere with lid function, induce keratitis and conjunctivitis from rubbing on the ocular surface, and sometimes cause superficial ulcers (also from abrading the cornea)
 
-    - Treatment
-      - Warm compresses, topical antibiotics/dex, lance the chalazion through a small incision on conjunctiva
+Diagnosis
+  - Biopsy with histopathology is the ***only*** sure way to diagnose the specific type of tumor present
+  - That said, many pedunculated "cauliflower" type masses arising from the eyelid margin or in the area of the Meibomian/tarsal glands are presumed to be Meibomian gland adenomas or epitheliomas and can be treated conservatively (i.e. probably will not need for aggressive wide resection)
+  - More "expansile" masses within the eyelid tissue itself should be examined carefully on the "underside" of the eyelid to look for a chalazion or aspirated for cytology to rule out rarer conditions like mast cell tumor
 
-2.  Neoplasia: Tarsal gland adenomas predominate - &gt; 90% of tumors are benign. By far the most common one is an adenoma arising from the Meibomian glands. Occasionally papillomas and melanomas are seen, both of which also behave relatively benignly. More rarely, malignancies such as mast cell tumor, squamous cell carcinoma, hemangiosarcoma, and fibrosarcoma will be encountered. The main problem induced by the benign tumors is that if they get large enough they will interfere with lid function, induce keratitis and conjunctivitis from rubbing on the ocular surface, and sometimes cause superficial ulcers (also from abrading the cornea).
+Treatment
+  - The author usually approaches most suspected benign eyelid masses (i.e. Meibomian gland adenomas) in one of a few ways:
+    - Conservative: "Wait and see" - some masses will not necessarily be causing keratitis or conjunctivitis. Owners should be warned that rapid growth is possible and small masses are more easily treated than large ones
+    - Surgical: 
+      - "Snip and Freeze" - the author's colloquial way of saying debulking and cryotherapy of an eyelid mass
+        - The tumor is first trimmed down to the eyelid margin doing as much to not disrupt the margin of the eyelid
+        - A currette or similar instrument (e.g. tips of scissors, 11 blade, etc.) is used to remove any inspisated gland material or neoplasia
+        - The cryo probe is placed in the bed of the debulked tumor and 2 or 3 fast-freeze-slow-thaw cycles are applied
+        - The freezing is applied until an "ice ball" forms around the affected area and extends ~3-5 mm beyond those margins
+        - ::: warning
+          When applying cryotherapy, over the counter "wart" remedies do not typically get to the level of cold needed for lysis of neoplastic cells. You want a temperature around or colder than -20 to -40&deg;C; N<sub>2</sub>O (nitrous) cryo gets to -25&deg;C
+          :::
+      - Eyelid resection
+          - 1/3 of the eyelid margin can safely be removed without decreasing function. 
+          - If &gt;1/3 of the margin needs to be removed, then blepharoplastic procedures need to be done. 
+          - For small tumors a wedge resection or pentagonal excision is done. 
+          - The details of how to perform a wedge resection can be found in the [“Surgical Techniques” notes](../labhandouts/surgical_techniques.html#lid-tumor-removal) as well as in texts. Accurate closure of the margin with the figure-8 suture is of utmost importance to prevent postoperative corneal irritation and/or ulceration.
 
-    - Diagnosis
-      - Biopsy is the only sure way to diagnose. Usually an excisional biopsy is done.
-
-    - Treatment
-      - 1/3 of the eyelid margin can safely be removed without decreasing function. If &gt;1/3 of the margin needs to be removed, then blepharoplastic procedures need to be done. For small tumors a wedge resection or pentagonal excision is done. The details of how to perform a wedge resection can be found in the “Surgical Techniques” notes as well as in texts. Accurate closure of the margin with the figure-8 suture is of utmost importance to prevent postoperative corneal irritation and/or ulceration.
+***Chalazion***
+<img class="plain-fig" src="/eyelids/media/images/Chalazion.png" alt="Upper Eyelid Chalazion" style="width:100%">
+  - Granulomatous inflammation of the tarsal gland/glands. 
+  - Localized mass beneath conjunctival surface, middle-aged dogs.
+  - Treatment
+    - Warm compresses, topical antibiotics/dex, lance the chalazion through a small incision on conjunctiva
 
 ### Eyelid lacerations
-
 Because of the tremendous blood supply, only minimal debridement should be done if at all. Immediate repair is a necessity to prevent tissue loss. Place the figure-8 margin suture first. Two layer closure is needed for long lacerations. Make sure no sutures penetrate the conjunctiva.

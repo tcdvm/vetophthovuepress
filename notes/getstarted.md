@@ -1,4 +1,16 @@
 ## Recent updates
+03/2021
+- A year since the pandemic started. Time flies! Hope everyone is staying healthy and getting vaccinated!
+- Edited Eyelids some more, including a neat interface that allows for "revealing" an image with questions and answers. See below for an example of that:
+
+<TwentyTwenty
+  before="/eyelids/media/images/EyelidAgenesisRight.png"
+  after="/eyelids/media/images/EyelidAgenesisLeft.png"
+  offset="0.05"/>
+
+- Added an "Art Corner" after a first submission by Dr. Trevor Arnold - check out his haiku, also added a place ophtho memes because why not? The Art Corner is open for submissions! Please email Dr. Chen at tchendvm@gmail.com to submit your work. Peer review is limited and you can put it on your CV/resume!
+<img class="plain-fig" src="/artcorner/media/images/spongememeglaucoma.png" alt="Primary glaucoma illustrated with SpongeBob buffness" style="width:50%">
+
 01/2020
 - Happy New Year!
 - Added a new project I'v been working on - the Ophtho Medications Grid

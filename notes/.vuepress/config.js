@@ -76,7 +76,7 @@ module.exports = {
       },
       {
         title: "Small Animal Ophthalmology",
-        collapsable: false,
+        collapsable: true,
         children: [
           ["./orbit/orbit", "Orbit"],
           ["./eyelids/eyelids", "Eyelids"],
@@ -92,7 +92,15 @@ module.exports = {
           ["./neuroophthalmology/neuroophthalmology", "Neuro-ophthalmology"],
           ["./feline/feline", "Feline"]
         ]
-      }
+      },
+      {
+        title: "Art Corner (new! 3/2021)",
+        collapsable: true,
+        children: [
+          ["./artcorner/poetry", "Poetry"],
+          ["./artcorner/memes", "Memes"],
+        ]
+      },
       // {
       //   title: "Lab Handouts",
       //   collapsable: false,

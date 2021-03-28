@@ -1,103 +1,51 @@
-Tear Composition
-================
+# Lacrimal System and KCS
 
-Three components of the tear film
----------------------------------
+## Tear Composition
 
-1.  Mucous - helps the aqueous part of the tears adhere to the cornea
-    and acts as a surfactant to help them spread across the cornea,
-    traps bacteria and particulate matter. Produced by goblet cells
-    located primarily in the fornix of the conjunctiva.
+### Three components of the tear film
 
-2.  Aqueous – composes the majority of tear film. Maintains an optically
-    uniform corneal surface, helps remove foreign matter from the
-    corneal surface, aids in lubrication, and provides nutrients to the
-    avascular cornea. Produced by the lacrimal gland located just
-    posterior to the dorsal, lateral orbital rim (65%) and by the gland
-    of the third eyelid (35%).
+1.  Mucous - helps the aqueous part of the tears adhere to the cornea and acts as a surfactant to help them spread across the cornea, traps bacteria and particulate matter. Produced by goblet cells located primarily in the fornix of the conjunctiva.
+2.  Aqueous – composes the majority of tear film. Maintains an optically uniform corneal surface, helps remove foreign matter from the corneal surface, aids in lubrication, and provides nutrients to the avascular cornea. Produced by the lacrimal gland located just posterior to the dorsal, lateral orbital rim (65%) and by the gland of the third eyelid (35%).
+3.  Lipids - prevent evaporation of the aqueous layer and prevents spillage of the tears over the eyelid margin. Produced by the meibomian glands in the eyelid margin.
 
-3.  Lipids - prevent evaporation of the aqueous layer and prevents
-    spillage of the tears over the eyelid margin. Produced by the
-    meibomian glands in the eyelid margin.
+## Definition of KCS
 
-Definition of KCS
-=================
+A deficiency in tear production of the severity that the health of the eye is compromised. Most often is a result of a deficiency of the aqueous layer.
 
-A deficiency in tear production of the severity that the health of the
-eye is compromised. Most often is a result of a deficiency of the
-aqueous layer.
-
-Clinical Signs
---------------
+### Clinical Signs
 
 1.  Hyperemic conjunctiva
-
-2.  Mucopurulent discharge - secondary to bacterial infection and the
-    mucous builds up
-
-3.  Keratitis - pigment, corneal vascularization, keratinization,
-    ulceration, perforation
-
+2.  Mucopurulent discharge - secondary to bacterial infection and the mucous builds up
+3.  Keratitis - pigment, corneal vascularization, keratinization, ulceration, perforation
 4.  Dull appearing cornea sometimes with severe blepharospasm
 
-KCS is the single most common cause of “conjunctivitis” in dogs and can
-lead to blindness!
+KCS is the single most common cause of “conjunctivitis” in dogs and can lead to blindness!
 
-Diagnosis
-=========
+### Diagnosis
 
 -   Clinical signs
-
 -   Schirmer Tear Test
-
     -   Normal: 15-25mm/min
-
     -   Subnormal: 0-10 mm/min
-
     -   “Gray Zone”: 10-14 mm/min
+    -   If the tear production is in the gray zone then go by the clinical signs or recheck in a couple of weeks.
+-   Qualitative tear film deficiency can cause signs similar to qualitative tear film deficiency but occurs when there is either too little lipid or mucous.
 
-    -   If the tear production is in the gray zone then go by the
-        clinical signs or recheck in a couple of weeks.
+### Differential Etiologies
 
--   Qualitative tear film deficiency can cause signs similar to
-    qualitative tear film deficiency but occurs when there is either too
-    little lipid or mucous.
-
-Differential Etiologies
-=======================
-
-1.  Immune-mediated (autoimmune adenitis) - most common cause of KCS in
-    dogs.
-
+1.  Immune-mediated (autoimmune adenitis) - most common cause of KCS in dogs.
     -   Diagnosis
-
-        -   Breed predisposition (Cockers, Bulldogs, Lhasa Apso and many
-            others)
-
+        -   Breed predisposition (Cockers, Bulldogs, Lhasa Apso and many others)
         -   No other cause found.
-
 2.  Canine Distemper Virus and Feline Herpes Virus
-
 3.  Toxic - sulfa drugs, etogesic (most cases have permanent KCS)
-
 4.  Topical - atropine - temporary
-
 5.  General anesthesia – temporary, but can last longer than 24 hours
-
 6.  Neurogenic - facial nerve palsy, trigeminal nerve palsy
-
-7.  Iatrogenic - removal of the nictitans gland. It used to be standard
-    practice to remove the gland of the nictitans when a dog developed
-    prolapsed gland of the nictitans (cherry eye). Now the gland is
-    replaced.
-
+7.  Iatrogenic - removal of the nictitans gland. It used to be standard practice to remove the gland of the nictitans when a dog developed prolapsed gland of the nictitans (cherry eye). Now the gland is replaced.
 8.  Chronic conjunctivitis - inflammation and scarring
-
-9.  Lacrimal gland agenesis – rare but usually unilateral in very small
-    breeds
-
+9.  Lacrimal gland agenesis – rare but usually unilateral in very small breeds
 10. Radiation therapy – when the eye is in the field.
-
 11. Hypothyroidism may be associated with KCS
 
 Treatment
