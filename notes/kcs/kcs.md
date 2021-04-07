@@ -1,4 +1,13 @@
 # Lacrimal System and KCS
+The lacrimal system is comprised of the glands and associated ducts that produce and deliver tears to the eye. Tears serve to provide vital lubrication, nutrients to the avascular cornea, as well as maintain the surface health with substances that control or manage the microbiota of the eye. 
+
+::: detail How Tears Affect Vision
+Tears (not the cornea) are also technically the first optical surface met by light entering the eye. The light travels through the air first and then hits the tear film and refracts (bends) at the air-liquid interface. The light then travels from tear film to cornea which have similar indexes of refraction (going from a liquid-to-pretty-liquidy medium in contrast to air-liquid). In fact people with dry eye may not have obvious signs of discomfort or feelings of dryness initially, but may instead notice blurry vision that is not associated with near or far sightedness. This is due to the lack or alteration in the tear film.
+
+If you are studying for NAVLE however, the answer to the question about what causes the most refraction in the eye is going to be the cornea (usually tear film is not even an option) because that is the starkest change in light refraction with the light going from air to tissue. Light going traveling through cornea to aqueous to lens to vitreous is only minimally changed because the medium the light passes through is largely the same (water). The lens only bends the light just enough so that it reaches the retina appropriately.
+
+In fish, where there is no air-tearfilm interface, the lens does most of the heavy-lifting with respect to refraction. There the lens occupies a much larger volume because it really has to be bend the light significantly so that it lands on the retina appropriately. Optics is neat!
+:::
 
 ## Tear Composition
 
