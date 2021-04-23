@@ -1,4 +1,7 @@
 ## Recent updates
+04/2021
+- New additions to the [Poetry Page](artcorner/poetry.html) of the Art Corner!! Thank you to Dr. Godwin for the lovely contribution inspired by [ectropion](eyelids/eyelids.html#ectropion). Also added some graphics to the poetry. Still open for submissions! Email tchendvm@gmail.com. Stay stafe.
+
 03/2021
 - A year since the pandemic started. Time flies! Hope everyone is staying healthy and getting vaccinated!
 - Edited Eyelids some more, including a neat interface that allows for "revealing" an image with questions and answers. See below for an example of that:

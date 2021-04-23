@@ -9,20 +9,19 @@ If you are studying for NAVLE however, the answer to the question about what cau
 In fish, where there is no air-tearfilm interface, the lens does most of the heavy-lifting with respect to refraction. There the lens occupies a much larger volume because it really has to be bend the light significantly so that it lands on the retina appropriately. Optics is neat!
 :::
 
-## Tear Composition
+## Three components of the tear film
 
-### Three components of the tear film
+Understanding of the tear film and how it is structured continues to evolve but essentially the there are three main components of the tear film originating from 3-4 different tissues
 
-1.  Mucous - helps the aqueous part of the tears adhere to the cornea and acts as a surfactant to help them spread across the cornea, traps bacteria and particulate matter. Produced by goblet cells located primarily in the fornix of the conjunctiva.
-2.  Aqueous – composes the majority of tear film. Maintains an optically uniform corneal surface, helps remove foreign matter from the corneal surface, aids in lubrication, and provides nutrients to the avascular cornea. Produced by the lacrimal gland located just posterior to the dorsal, lateral orbital rim (65%) and by the gland of the third eyelid (35%).
-3.  Lipids - prevent evaporation of the aqueous layer and prevents spillage of the tears over the eyelid margin. Produced by the meibomian glands in the eyelid margin.
+1.  Aqueous – comes from the lacrimal gland (66%) and gland of the third eyelid (33%). Makes up the majority of tear film. Maintains an optically uniform corneal surface, helps remove foreign matter from the corneal surface, aids in lubrication, and provides nutrients to the avascular cornea. 
+2.  Mucous/Mucin - comes from goblet cells of the conjunctiva mostly at the fornix - helps the aqueous part of the tears adhere to the cornea and acts as a surfactant to help them spread across the cornea, traps bacteria and particulate matter. 
+3.  Lipids - comes from the meibomian glands in the eyelid margin - prevents evaporation of the aqueous layer and spillage of the tears over the eyelid margin. 
 
 ## Definition of KCS
 
 A deficiency in tear production of the severity that the health of the eye is compromised. Most often is a result of a deficiency of the aqueous layer.
 
 ### Clinical Signs
-
 1.  Hyperemic conjunctiva
 2.  Mucopurulent discharge - secondary to bacterial infection and the mucous builds up
 3.  Keratitis - pigment, corneal vascularization, keratinization, ulceration, perforation
@@ -31,7 +30,6 @@ A deficiency in tear production of the severity that the health of the eye is co
 KCS is the single most common cause of “conjunctivitis” in dogs and can lead to blindness!
 
 ### Diagnosis
-
 -   Clinical signs
 -   Schirmer Tear Test
     -   Normal: 15-25mm/min
