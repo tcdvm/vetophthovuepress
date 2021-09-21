@@ -340,7 +340,7 @@ Prognosis is dependent upon history, duration, presence of infection.
 
 ## Indolent ulcers
 
-- Also known as Superficial Chronic Corneal Epithelial Defect – SCCED
+- Also known as Spontaneous Chronic Corneal Epithelial Defect – SCCED
 - A chronic SUPERFICIAL non-healing ulcer with loose edge of epithelium.
 - The general pathology appears to be due to lack of functional hemidesmosomes. There have been several hypotheses regarding why this occurs, including (i) a primary corneal dystrophy; (ii) overactive levels of protease in the tear film which degrade the fibronectin network onto which the basal epithelial cells migrate; and (iii) the presence of an acellular zone in the anterior stroma that prevents attachment of an overlying epithelium.
 - There may, in fact, be more than one pathophysiology, with indolent ulceration being a “final common pathway.”
