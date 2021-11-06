@@ -1,4 +1,7 @@
 ## Recent updates
+11/2021
+- Long overdue update! Been working on the KCS chapter. Added some text, images, etc. KCS is a really common thing to encounter in practice and so it's one of the more important topics to master in veterinary ophthalmology. Hopefully there will be some useful information here. Any comments or corrections (minor grammar things, spelling, whatever) welcome (tchendvm @ gmail . com)
+
 04/2021
 - New additions to the [Poetry Page](artcorner/poetry.html) of the Art Corner!! Thank you to Dr. Godwin for the lovely contribution inspired by [ectropion](eyelids/eyelids.html#ectropion). Also added some graphics to the poetry. Still open for submissions! Email tchendvm@gmail.com. Stay stafe.
 
