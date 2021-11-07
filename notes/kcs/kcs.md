@@ -215,7 +215,7 @@ If by some small miracle the descemetocele epithelializes you will have a cornea
 :::
 
 #### Surgical
-In the dark days of optimmune, this was the most common treatment for KCS. Fortunately thanks to cyclosporine and its cousins (tacrolimus, etc.) it's rare for this produre to be performed. This is typically a referral surgery as proper understanding of the anatomy is crucial for success but having an understanding of what to expect if this to be performed is good to communicate to owners.
+In the dark days before optimmune, this was the most common treatment for KCS. Fortunately thanks to cyclosporine and its cousins (tacrolimus, etc.) it's rare for this produre to be performed. This is typically a referral surgery as proper understanding of the anatomy is crucial for success but having an understanding of what to expect if this to be performed is good to communicate to owners.
 
 In short, the parotid salivary duct is transposed to the conjunctival sac and the dog is trained to salivate in order to moisture the eye. In general the surgery is successful (meaning we succeed in bringing the duct up) but complications abound. Potential complications: overflow of moisture onto the face (a near certainty), corneal mineralization, fibrosis of the duct, poor salivary secretions, sialolith formation, general intolerance of saliva in the eye (i.e. persistent blepharospasm or pain or irritation).
 
