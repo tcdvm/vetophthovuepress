@@ -1,4 +1,5 @@
 import VueTypedJs from "vue-typed-js";
+import EasySlider from 'vue-easy-slider';
 // import Vuetify from "vuetify";
 // import "vuetify/dist/vuetify.min.css";
 // import VueCarousel from 'vue-carousel';
@@ -13,7 +14,7 @@ export default ({
   if (typeof process === "undefined") {
     // process is undefined in a browser
     Vue.use(VueTypedJs);
-    // Vue.use(VueCarousel);
+    Vue.use(EasySlider);
   }
   // Vue.use(Vuetify);
   // options.vuetify = new Vuetify({});
