@@ -303,6 +303,9 @@ In the paper, the authors report a better rate of success for challenging breeds
 
 <slider :autoplay="false">
   <slider-item>
+    <img src="/conjunctiva/media/images/combosuture.png"">
+  </slider-item>
+  <slider-item>
     <img src="/conjunctiva/media/images/combo1a.png"">
   </slider-item>
   <slider-item>
@@ -319,6 +322,9 @@ In the paper, the authors report a better rate of success for challenging breeds
   </slider-item>
   <slider-item>
     <img src="/conjunctiva/media/images/combo1e2.png"">
+  </slider-item>
+  <slider-item>
+    <img src="/conjunctiva/media/images/combo2a.png"">
   </slider-item>
   <slider-item>
     <img src="/conjunctiva/media/images/combo2b.png"">
