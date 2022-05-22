@@ -1,63 +1,72 @@
+# Cornea
+The cornea is the clear avascular layer of the eye continuous with the sclera. It's a common region of concern for veterinary species. The cornea is the first clear ocular media that light travels through to reach the retina.
+
 ## Corneal Anatomy
 
-### 3 General Layers
+<!-- https://excalidraw.com/#json=kTi94utblE-FKlZaX_X55,qL6AcZt2zbYxmDIYmc-LmA -->
 
-1.  The outside layer is non-keratinized squamous **epithelium**, which is 5--7 layers. Epithelial turnover is every 7 days. The epithelium has a basement membrane that is basically insignificant clinically and histologically in veterinary medicine. This epithelial layer accounts for ~5% of the cornea’s thickness and is divided into 3 layers:
+<object type="image/svg+xml" data="/cornea/media/images/CornealAnatomy.svg"> </object>
+
+1.  The outside layer is non-keratinized squamous **epithelium**, which is 5--7 layers. Epithelial turnover is every 7 days. The epithelium has a basement membrane that is basically insignificant clinically and histologically in veterinary medicine. This epithelial layer accounts for ~5% of the cornea’s thickness and is divided into 3 layers (NOT depicted above):
 
     1.  Basal cells --- deepest layer, single cell thickness, attached to basement membrane via hemidesmosomes. Only epithelial layer to undergo mitosis.
-
     2.  Wing cells --- middle transitional layer between basal cells and squamous cells. It is 2--3 cells thick in dogs.
-
     3.  Squamous cells --- anterior layer, 2--3 cells thick in dog, microplicae and microvilli on surface help stabilize tear film, tight junctions between squamous cells limit permeability.
 
-2.  The **stroma** makes up 90% of the corneal thickness. It is primarily collagen and GAGs and has low cellularity. The collagen in lamellae span the corneal diameter. The stroma can take months to rebuild when damaged. The collagen is formed from keratocytes (modified fibroblasts).
+    The practical clinical importance of these "3 epithelial" layers is questionable but is great to know for "Extra Credit". When an ulcer is healing, it's the basal layer that crawls across the stroma. The squamous layer of the epithelium interfaces with the tear film and help to keep out fluorescein stain vis a vis the tight junctions.
 
-3.  The **endothelium** and its basement membrane (Descemet’s membrane) make up the inside layer. Proliferative potential is very low. The endothelium is a single layer of hexagonal cells that are important in maintaining state of relative dehydration of cornea via active pumps.
+2.  The **stroma** makes up 90% of the corneal thickness. It is primarily collagen and glycoaminoglycans and has low cellularity. The collagen in the lamellae span the corneal diameter. The stroma can take months to rebuild when damaged. The collagen is formed from keratocytes (modified fibroblasts).
 
-### Thickness
+3. **Descemet's Membrane** is the basement membrane of the endothelium. It is typically the last layer to be visualized prior to rupture. Should an ulcer extend to this layer of the cornea (based on staining pattern) it is referred to as a **descemetocele** and is kind of a big deal because it means only it (and the negligible thickness endothelium) stands between the inside of the eye and the outside world.
+
+3.  The **endothelium** is the innermost layer.  The endothelium is a single layer of hexagonal cells that are important in maintaining state of relative dehydration of cornea via active pumps. Proliferative potential is very low and it typically doesn't regenerate well.
+
+#### Thickness
 
 - The cornea is 0.5--0.6 mm thick in the dog and cat and about 1 mm in horses.
 - With corneal edema, the thickness of the cornea can substantially increase in the area of edema.
 
-### Limbus
+#### Limbus
 
 - The area where the edge of the cornea meets the conjunctiva and sclera. When blood vessels invade the cornea, they begin from the limbus.
 - A good area to closely examine for early corneal change
 
-### Corneal innervation
+#### Corneal innervation
 
 - Sensation is via the ophthalmic division of the trigeminal nerve.
 - Superficial injury is often more painful than deep as the pain receptors are superficial.
-- Brachycephalics have fewer nerve branches than dolichocephalics and mesocephalics.
 - Interestingly, this sensory innervation also provides factors necessary for corneal health (e.g., a neuropeptide called Substance P), and poor or disrupted innervation can lead to a syndrome called neurotrophic keratitis.
+- Brachycephalics have fewer nerve branches than dolichocephalics and mesocephalics.
+
+<div style="display:flex;justify-content:center">
+  <img src="/cornea/media/images/PugCornealinnervation.png" alt="Poor Corneal Innervation in a pug" style="width:50%">
+</div>
 
 ## Corneal Physiology
 
-### Functions of the Cornea
+The cornea (along with the sclera) is part of the fibrous layer of the eye that helps to keep the eye intact and hold its intraocular contents. The cornea is involved in the passive transmission and refraction (bending) of light so that it can continue through the eye to land focused on the retina.
 
-- Supports intraocular contents
-- Transmits light
-- Refracts light (40--42 diopters)
+As an optical media, it's important that the cornea remain clear and free of opacities (pathological or physiological) that might otherwise impair clarity. There are a number of ways this is accomplished. Derrangement of these methods leads to changes in clarity - the manner in which this happens can be helpful in diagnosing and assessing response to treatment but first it's important to understand the methods by which the cornea is and remains optically clear.
 
-### Corneal nutrition
+**The Physiology of a Clear Cornea** (and examples of *pathophysiological responses* in italics that result in decreased clarity):
+1. Avascularity -- instead of using vasculature for its metabolic needs, the cornea uses aqueous humor and tears. 
+    * Alteration in either tears (KCS) or the aqueous humor (uveitis) can result in decreased support for the cornea --> *neovascularization is initiated in response*
+2. Non-pigmented non-keratinized epithelium -- pigmentation and keratinization will impede clarity (these are features are handy in opaque skin) so the surface corneal epithelium lacks these features. *With inflammation or irritation however, the epithelium will pigment and keratinize the cornea but at the cost of clarity.*
+3. Highly organized arrangement of small diameter collagen fibrils -- these fibrils extend the entire diameter of the cornea. This arrangement allows 99% of the light to pass through the cornea without scatter. *With scarring, say when a stromal or melting ulcer heals, the fibrils may not be regularly arranged (or as arranged) and therefore the corena will usually have some amount of opacification.*
+4. Relative dehydration -- the normal cornea is relatively dehydrated, containing about 70% water by weight (compared to 95+% for most tissues).
+    - This dehydration is an active & passive process, as the cornea is bathed by fluid on both sides eager to enter --- aqueous humor on the inside and tears on the outside.
+    - In a normal cornea the endothelial cells constantly pump aqueous humor (via the Na-K-ATPase pump -- this is the active arm of dehydration) that has imbibed into the deeper stroma back into the anterior chamber while the epithelial barriers keep tears out (this is the passive arm).
+    - *Aberration of the dehydration mechanisms (e.g. ulceration or endothelial dystrophy) will result in corneal edema seen as a cloudiness to the cornea*
 
-Being avascular, corneal nutrition comes from two major sources:
+**Response to disease** is largely reflected in loss of the clarity described above. The myriad ways this can happen is described below. One paradigm of understanding corneal pathology is to categorize the color changes that can be noted in the cornea in respone to pathological change. That paradigm is summarized in the below table and described in more detail following it.
 
-- Aqueous humor
-- Tears (major source of oxygen)
-
-### Mechanisms to maintain clarity
-
-- Avascularity --- instead of using vasculature for its metabolic needs, the cornea uses aqueous humor and tears.
-- Non-pigmented-non-keratinized epithelium
-- Highly organized arrangement of small diameter collagen fibrils --- these fibrils extend the entire diameter of the cornea. This arrangement allows 99% of the light to pass through the cornea without scatter.
-- Relative dehydration
-  - The normal cornea is relatively dehydrated, containing about 70% water by weight (compared to 95+% for most tissues).
-  - This dehydration is an active process, as the cornea is bathed by fluid on both sides eager to enter --- aqueous humor on the inside; tears on the outside.
-  - In a normal cornea the endothelial cells constantly pump aqueous humor (via the Na-K-ATPase pump) that has imbibed into the deeper stroma back into the anterior chamber while the epithelial barriers keep tears out.
-- Tear film: Prevents keratinization and washes away resident and transient bacteria so their numbers stay in check.
-
-### Response to disease
+| Color | Examples  | What it is, what it means                             |
+|---------------------------|:----------------------------:|--------------------------------------|
+| Red <a href="https://placeholder.com"><img src="https://via.placeholder.com/150"></a></br> |<a href="https://placeholder.com"><img src="https://via.placeholder.com/150"></a> <a href="https://placeholder.com"><img src="https://via.placeholder.com/150"></a>| <ul> <li>Inflammation of the cornea (keratitis)</li><li>Corneal Hemorrhage (rare)</li></ul> |
+| Brown/Black                      |<a href="https://placeholder.com"><img src="https://via.placeholder.com/150"></a>| <ul><li>Corneal pigmentation/melanosis</li><li>Another sign of keratitis</li> </ul> |
+| White  <ul><li>Hazy, comfortable</li><li>Shiny, well demarcated</li><li>Chalky & specular</li></ul>               | The thickest artificial tear - usually contains some kind of oil-based medium (i.e. petrolatum). Theoretically lasts longer than any of the other tear supplements so probably best for severe cases. However, can get "messy" with chronically oily fur. Also harder to get out in a controlled manner for most clients - just need a tiny bit but usually more comes out. |<ul><li>Corneal Edema</li><li>Corneal Lipid</li><li>Corneal Calification</li> </ul>  |
+| Blue                 | | <ul><li>Corneal Edema</li><li>Corneal Lipid</li><li>Corneal Calification</li> </ul> |
+| Yellow                 | The thickest artificial tear - usually contains some kind of oil-based medium (i.e. petrolatum). Theoretically lasts longer than any of the other tear supplements so probably best for severe cases. However, can get "messy" with chronically oily fur. Also harder to get out in a controlled manner for most clients - just need a tiny bit but usually more comes out. | <ul> <li>Genteal Night-time Ointment</li><li>Anything that says "ophthalmic ointment" in it (e.g. Akwa Tears)</li> </ul> |
 
 - Edema
 
@@ -105,7 +114,7 @@ Being avascular, corneal nutrition comes from two major sources:
   - The axon reflex mechanism causes signs of anterior uveitis including: protein and cellular leakage from uveal blood vessels (aqueous flare), ciliary spasm (resulting in pain) and pupillary miosis.
   - Topical treatment for secondary uveitis (e.g. topical steroids or NSAIDs) should **not** be done in cases of corneal ulceration as their use may slow or complicate re-epithelialization. Topical atropine for discomfort or dilation can be used or systemic anti-inflammatories if the uveitis is significant.
 
-### Mechanisms of corneal healing
+#### Mechanisms of corneal healing
 
 - Epithelial defects (e.g. superficial ulcers)
 
@@ -161,6 +170,9 @@ Associated clinical signs:
   - The corneal epithelium & Descemet’s membrane are lipophilic and hydrophobic thus preventing transcellular passage of fluorescein) and contains very robust interepithelial tight junctions (preventing paracellular passage of fluorescein).
   - Fluorescein applied to the cornea will simply run off the surface and not adhere. When the epithelium is denuded, the underlying hydrophilic stroma is exposed. The ulcer will appear green which is accentuated with a cobalt blue filter.
   - When using the strip, moisten the end and either drip the solution on the cornea or touch the wet tip to the conjunctiva and rinse with saline.
+
+<!-- https://excalidraw.com/#json=6tOFZHfoIUjLAEzoU-EgC,IhD1lMmP7GC_cNjN9__DjQ -->
+ <object type="image/svg+xml" data="/cornea/media/images/StainingPattern.svg"></object>
 
 ### Causes of corneal ulcers
 
