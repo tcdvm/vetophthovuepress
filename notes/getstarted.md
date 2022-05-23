@@ -1,4 +1,7 @@
 ## Recent updates
+05/2022
+- Updated the [conjunctiva/third eyelid section](conjunctiva/conjunctiva.html)! Lots of pictures, descriptions of procedures (esp cherry eye). Doesn't have as much information as I think is possible but just trying to get through each section as best I can and then maybe go back with additional pictures/techniques/videos/peer-reviewed information. Next one is a biggie - ***cornea***. Obviously that will be fairly involved and probably the one with the most information as it's probably the most commonly dealt with part of the eye in clinical practice. Hopefully will get it done before the end of the year!
+
 11/2021
 - Long overdue update! Been working on the KCS chapter. Added some text, images, etc. KCS is a really common thing to encounter in practice and so it's one of the more important topics to master in veterinary ophthalmology. Hopefully there will be some useful information here. Any comments or corrections (minor grammar things, spelling, whatever) welcome (tchendvm @ gmail . com)
 

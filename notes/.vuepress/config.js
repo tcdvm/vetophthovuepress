@@ -36,12 +36,20 @@ module.exports = {
     // sidebarDepth: 1,
     // searchMaxSuggestions: 10,
     algolia: {
-      apiKey: "348f3dcf64dcfe5736146da0ccae2a54",
+      appId: "YFN6AW2VTF",
+      apiKey: "490ecfca462fe370c10372b0e3736509",
       indexName: "vetophtho",
       algoliaOptions: {
         hitsPerPage: 10
       }
     },
+    // algolia: {
+    //   apiKey: "348f3dcf64dcfe5736146da0ccae2a54",
+    //   indexName: "vetophtho",
+    //   algoliaOptions: {
+    //     hitsPerPage: 10
+    //   }
+    // },
     lastUpdated: "Last Updated", // string | boolean
     nav: [
       // { text: "Home", link: "/" },
@@ -82,8 +90,7 @@ module.exports = {
           ["./eyelids/eyelids", "Eyelids"],
           ["./nasolacrimal/nasolacrimal", "Nasolacrimal"],
           ["./kcs/kcs", "KCS/Dry Eye"],
-          ["./conjunctiva/conjunctiva", "Conjunctiva"],
-          ["./nictitans/nictitans", "Nictitans"],
+          ["./conjunctiva/conjunctiva", "Conjunctiva & Nictitans"],
           ["./cornea/cornea", "Cornea"],
           ["/glaucoma/glaucoma", "Glaucoma"],
           ["./anterioruvea/anterioruvea", "Anterior Uvea"],
